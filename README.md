@@ -31,7 +31,7 @@ Module for react native to merge multiple video.
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
-      compile project(':react-native-video-editor')
+      implementation  project(':react-native-video-editor')
   	```
 
 ## Usage
